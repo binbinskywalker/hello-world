@@ -1,5 +1,6 @@
 #include <stdio.h>
+#include "show.h"
 void main()
 {
-	printf("this is a test\n");
+	show();
 }
